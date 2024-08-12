@@ -7,7 +7,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Mobile Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg1bGhzMnp2cnF5YnkzZWlscmtycTU0djRmNW1peDFmMjAzZzMweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.gif" width="30"> from Viet Nam.
+I am a Mobile Developer <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg1bGhzMnp2cnF5YnkzZWlscmtycTU0djRmNW1peDFmMjAzZzMweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.gif" width="30"> from Viet Nam, Ho Chi Minh City.
 
 👨‍💻 I’m working as a Software Engineer, contributing to both frontend and backend to build dynamic mobile applications.<br>
 🌱 Currently diving deeper into React to expand my expertise.<br>
